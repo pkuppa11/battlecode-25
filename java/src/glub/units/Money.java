@@ -1,8 +1,8 @@
 package glub.units;
 
-import glub.Robot;
 import battlecode.common.GameActionException;
 import battlecode.common.RobotController;
+import glub.Robot;
 
 public class Money extends Robot {
     public int lvl;

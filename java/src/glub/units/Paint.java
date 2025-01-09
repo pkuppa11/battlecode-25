@@ -1,10 +1,10 @@
 package glub.units;
 
-import glub.Robot;
-import battlecode.common.MapLocation;
-import battlecode.common.UnitType;
 import battlecode.common.GameActionException;
+import battlecode.common.MapLocation;
 import battlecode.common.RobotController;
+import battlecode.common.UnitType;
+import glub.Robot;
 
 public class Paint extends Robot {
     public int lvl;
